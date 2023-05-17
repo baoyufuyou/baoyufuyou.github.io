@@ -1,6 +1,6 @@
 # Site settings
-title: 薄羽蜉蝣 Blog
-SEOTitle: 薄羽蜉蝣的博客 | BY Blog
+title: BY Blog
+SEOTitle: BY Blog
 header-img: img/post-bg-desk.jpg
 email: zhanglei.cn.de@gmail.com
 description: "Coding and Learning."
@@ -11,7 +11,7 @@ github_repo: "https://github.com/baoyufuyou/baoyufuyou.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Description"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: 
 
 # Google Analytics
-ga_track_id: 'G-6QXG8HL59L'            # Format: UA-xxxxxx-xx
+ga_track_id: 'G-123456789'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
